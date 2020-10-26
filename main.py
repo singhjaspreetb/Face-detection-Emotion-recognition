@@ -6,7 +6,7 @@ import cv2
 
 import matplotlib.pyplot as plt
 
-img_path =r'C:\Users\harsh\OneDrive\ONE DRIVE\OneDrive\Desktop\T-Hacks\dataset\img18.jpg'
+img_path =r'img18.jpg'
 
 img = cv2.imread(img_path)
 
